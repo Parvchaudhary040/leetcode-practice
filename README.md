@@ -48,9 +48,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0032-longest-valid-parentheses) |
+| [0062-unique-paths](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0072-edit-distance) |
 ## Stack
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0032-longest-valid-parentheses) |
+## Math
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
