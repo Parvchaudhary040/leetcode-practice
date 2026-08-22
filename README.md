@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0088-merge-sorted-array) |
+| [0303-range-sum-query-immutable](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0724-find-pivot-index) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0724-find-pivot-index) |
 ## Linked List
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0141-linked-list-cycle) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
