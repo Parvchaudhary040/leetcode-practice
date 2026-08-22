@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0136-single-number) |
 | [0303-range-sum-query-immutable](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0643-maximum-average-subarray-i) |
@@ -117,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0303-range-sum-query-immutable) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
