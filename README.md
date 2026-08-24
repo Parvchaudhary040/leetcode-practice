@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0643-maximum-average-subarray-i) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0268-missing-number) |
 | [0905-sort-array-by-parity](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0905-sort-array-by-parity) |
 ## String
 |  |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0141-linked-list-cycle) |
+| [0268-missing-number](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
 ## Sliding Window
 |  |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0062-unique-paths) |
+| [0268-missing-number](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0268-missing-number) |
 ## Combinatorics
 |  |
 | ------- |
@@ -123,8 +127,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0191-number-of-1-bits) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
