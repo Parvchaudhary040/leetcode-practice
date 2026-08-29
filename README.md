@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0062-unique-paths) |
 | [0268-missing-number](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0371-sum-of-two-integers) |
 ## Combinatorics
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0371-sum-of-two-integers) |
 | [1720-decode-xored-array](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/1720-decode-xored-array) |
 ## Divide and Conquer
 |  |
