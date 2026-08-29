@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0905-sort-array-by-parity) |
+| [1720-decode-xored-array](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/1720-decode-xored-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0268-missing-number) |
+| [1720-decode-xored-array](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/1720-decode-xored-array) |
 ## Divide and Conquer
 |  |
 | ------- |
