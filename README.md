@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0905-sort-array-by-parity) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [1720-decode-xored-array](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/1720-decode-xored-array) |
 ## Two Pointers
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0072-edit-distance) |
 | [0152-maximum-product-subarray](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0152-maximum-product-subarray) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0918-maximum-sum-circular-subarray) |
 ## Stack
 |  |
 | ------- |
@@ -143,8 +145,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0191-number-of-1-bits) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0918-maximum-sum-circular-subarray) |
 ## Binary Search
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0268-missing-number) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
