@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0268-missing-number) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0072-edit-distance) |
 ## Stack
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0191-number-of-1-bits) |
 ## Binary Search
