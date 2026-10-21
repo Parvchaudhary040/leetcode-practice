@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0918-maximum-sum-circular-subarray) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1720-decode-xored-array](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/1720-decode-xored-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Two Pointers
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/0643-maximum-average-subarray-i) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Parvchaudhary040/leetcode-practice/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Dynamic Programming
 |  |
 | ------- |
